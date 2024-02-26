@@ -148,39 +148,48 @@ print("\nLenght of X_test ",len(X_test))
 
 ### Data checking
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/1652081a-e434-418c-8bfa-ffd0097a5f58)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/76ab9146-5798-4317-93dd-9d830c73d6b2)
+
 
 ### Missing Data 
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/c22867c3-a304-4890-849a-d3f88e2278c3)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/bb94ef90-f086-4ea4-816f-d21f00faab05)
+
 
 ### Duplicates identification
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/beb23c01-7e40-4a4f-a743-b803cd87154d)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/618361a3-778c-4214-bdc8-9fcffb27a729)
+
 
 ### Vakues of 'Y'
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/12a5643f-4058-4095-9a6e-10ecc1ff4357)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/524182d8-7407-486b-85e0-df480c95db4a)
+
 
 ### Outliers
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/0a937472-82aa-47f8-94fd-6604fba691f5)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/7f197886-1023-44e0-bbca-5d3e24a5c8b3)
+
 
 ### Checking datasets after dropping string values data from dataset
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/b0b2687b-a0c6-4c88-82c0-98299d2a64ca)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/b02e4f08-d463-43f4-8d31-fdaa702c9759)
+
 
 ### Normalize the dataset
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/b982e971-f9dc-4d8d-8fcc-58163db111f2)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/366dd7cd-310a-473f-a5dd-3e0876241bfe)
+
 
 ### Split the dataset
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/c0b451e1-40f7-4551-8c2f-a00d6003b38e)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/720a6939-69ae-47ba-9134-db483d9315f4)
+
 
 ### Training and testing model
 
-![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/01fade29-e4e7-4e0f-a7d7-c0d554cb1885)
+![image](https://github.com/KANISHKAR2607/Ex-1-NN/assets/118886772/17964c03-0066-42ff-892a-4e0ead3ddcb9)
+
 
 
 
